@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @milky766
-- 👀 I’m interested in soft rock.
+- 👀 I’m interested in soft robotics.
 - 🌱 I’m currently learning English.
 - 💞️ I’m looking to collaborate on Mckibben modeling.
 - 📫 How to reach me ...
